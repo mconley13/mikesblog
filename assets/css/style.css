@@ -1,0 +1,37 @@
+* {
+    background-color: aquamarine;
+    color: rgb(0, 0, 81);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh
+}
+a {
+    text-decoration: none;
+
+}
+header {
+    display:flex;
+    justify-content: flex-end;
+}
+section {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+article {
+
+}
+form {
+    float: right;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+img {
+    max-width: 100%;
+    height:auto;
+    width:auto
+}
+.row
